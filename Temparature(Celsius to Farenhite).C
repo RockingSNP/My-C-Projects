@@ -1,8 +1,6 @@
 # include<stdio.h>
-/*
-this is our first c program
-which is awesome.
-*/
+
+
 int main(){
 
     float a;

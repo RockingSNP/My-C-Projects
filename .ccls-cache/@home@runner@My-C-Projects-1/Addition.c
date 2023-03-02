@@ -15,7 +15,7 @@ int main(){
 
     printf("Here is your total = %d\n", a + b);
 
-    printf("Here is your substraction = %d", a - b);
+    printf("Here is your difference = %d", a - b);
 
     return 0;
 }
