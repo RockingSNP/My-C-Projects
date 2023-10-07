@@ -4,7 +4,7 @@ Welcome to my collection of C projects! This repository contains a selection of 
 
 ## Table of Contents
 
-1. [Project 1: Project Name](#project-1-project-name)
+1. [Project 1: Project Name](https://github.com/RockingSNP/My-C-Projects/blob/main/nat_to_roman_converter.c)
 2. [Project 2: Project Name](#project-2-project-name)
 3. [Project 3: Project Name](#project-3-project-name)
    - [Subproject 1](#subproject-1)
